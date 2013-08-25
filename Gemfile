@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'spree', '~> 1.3.2'
+gem 'spree', '~> 2.0.5.beta'
 
 if RUBY_VERSION < "1.9"
   gem "ruby-debug"
